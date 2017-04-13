@@ -340,7 +340,7 @@ AppModule = __decorate([
                     redirectTo: "/dashboard",
                     pathMatch: "full"
                 }
-            ])
+            ], { useHash: true })
         ],
         declarations: [
             __WEBPACK_IMPORTED_MODULE_7__app_component__["a" /* AppComponent */],
