@@ -35,7 +35,7 @@ import { DashboardComponent } from "./dashboard.component";
         redirectTo: "/dashboard",
         pathMatch: "full"
       }
-    ])
+    ], {useHash: true})
   ],
   declarations: [
     AppComponent,
