@@ -1,4 +1,5 @@
 # AngularCliGithubPage
+[![Build Status](https://travis-ci.org/gablou/angular-cli-githubPage.svg?branch=master)](https://travis-ci.org/gablou/angular-cli-githubPage)
 
 [githubio page](https://gablou.github.io/angular-cli-githubPage/)
 
